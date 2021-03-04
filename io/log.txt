@@ -1,0 +1,25 @@
+#define SEC_YEAR    (365LL * 24LL * 60LL * 60LL)
+
+
+
+5LL * 1024LL * 1024LL * 1024LL;
+
+
+
+/*
+func(FILE* fp, long l)
+{
+    ...
+}
+
+int main()
+{
+    FILE* fp;
+    long l = 123L;
+
+    fp = ...
+
+    func(fp, l);
+    func(fp, l23L);
+}
+*/
